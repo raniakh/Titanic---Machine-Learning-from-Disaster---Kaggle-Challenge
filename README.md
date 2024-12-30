@@ -94,5 +94,10 @@ To explore the project or run the notebook:
 Feel free to fork the repository and submit pull requests for improvements or new ideas!
 
 ## License
-This project is licensed under the MIT License.
+
+The code in this repository is provided for educational and non-commercial purposes. 
+
+The dataset used in this project is publicly available on Kaggle as part of the [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic/overview) competition. The dataset is subject to Kaggle's [terms of service](https://www.kaggle.com/terms). Please ensure compliance with these terms when using the dataset.
+
+---
 
